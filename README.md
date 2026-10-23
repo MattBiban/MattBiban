@@ -1,6 +1,6 @@
 # Hi, I'm Matt Biban 👋
 
-I design and build websites, web apps and AI tools, mostly for clients through [off-brand](https://off-brand.xyz). I also play bass in [BINKY](https://binkymusic.com), and built the band's site.
+I'm the CTO of [off-brand](https://off-brand.xyz), where I lead the technical side and build websites, web apps and AI tools for clients. I also play bass in [BINKY](https://binkymusic.com), and built the band's site.
 
 Most of my repositories are private because they hold client work. The live sites are linked below, and I'm happy to walk through the code on request.
 
