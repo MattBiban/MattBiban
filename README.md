@@ -27,12 +27,10 @@ Most of my repositories are private because they hold client work. The live site
 - **Atelier**: a local image generation studio for FLUX models on Apple Silicon. FastAPI and mflux back end, plain HTML, CSS and JavaScript front end. Nothing leaves the Mac.
 - **Catinder**: an iOS app in SwiftUI with Firebase authentication, user profiles and matches.
 
-## Earlier and side projects
+## Side projects
 
 - **[NetWatch](https://github.com/MattBiban/wow-addons-netwatch)**: a World of Warcraft addon that monitors latency, jitter, bandwidth and estimated packet loss in real time, with themes and customisable windows. Lua.
-- **[FileBrowser](https://github.com/MattBiban/FileBrowser)**: an Android file browser app. Java.
-- **iOS Learning**: SwiftUI practice apps, including a calculator, a WordPress client and several UI studies. Swift.
 
 ## Tools I work with
 
-HTML, CSS, JavaScript, TypeScript, Python, Swift, Java, Lua · Astro, Fastify, FastAPI, Expo / React Native, SwiftUI · Firebase, Cloudflare Workers, Vercel, Railway · Claude API
+HTML, CSS, JavaScript, TypeScript, Python, Swift, Lua · Astro, Fastify, FastAPI, Expo / React Native, SwiftUI · Firebase, Cloudflare Workers, Vercel, Railway · Claude API
