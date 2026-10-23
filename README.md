@@ -1,4 +1,4 @@
-# Hi, I'm Matt Biban 👋
+# Hi, I'm Matthew Biban 👋
 
 I'm the CTO of [off-brand](https://off-brand.xyz), where I lead the technical side and build websites, web apps and AI tools for clients. I also play bass in [BINKY](https://binkymusic.com), and built the band's site.
 
