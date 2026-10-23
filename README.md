@@ -11,7 +11,7 @@ Most of my repositories are private because they hold client work. The live site
 | [BINKY](https://binkymusic.com) | Official site of a nu disco trio from Batroun, Lebanon, with a custom admin dashboard and day/night themes | HTML, CSS, JavaScript, Firebase Hosting, Firestore |
 | [Batroun Capitale de Noël](https://batroun-capitale-de-noel.mattbiban.workers.dev) | Website for the Christmas festival in Batroun's old town, with a content editor for the organisers | Astro, Cloudflare Workers, Decap CMS |
 | [Oyster's Seafood](https://oysters-seafood.mattbiban.workers.dev) | Website for a family-owned seafood restaurant at the old port of Batroun, editable by the family without a developer | Astro, Cloudflare Workers, Decap CMS |
-| SCENOLAB | 35-page website for an event production company working across the UAE, Saudi Arabia and Lebanon, with a brand film and project case studies | Astro, Firebase Hosting, WCAG 2.2 AA |
+| [SCENOLAB](https://scenolab-preview--client-review-rgey5ydk.web.app) | 35-page website for an event production company working across the UAE, Saudi Arabia and Lebanon, with a brand film and project case studies | Astro, Firebase Hosting, WCAG 2.2 AA |
 | [Mia Biban](https://miabiban.com) | Portfolio for a communication and visual artist | HTML, CSS, JavaScript, Firebase Hosting |
 | [Le Chocolat LLC](https://le-chocolat-ae.web.app) | B2B marketing site for a chocolate and ingredient manufacturer in Dubai | HTML, CSS, JavaScript, Firebase Hosting |
 | [Diplomatic Advisory](https://diplomatic-advisory.com) | Website for an international advisory firm | HTML, CSS, JavaScript |
