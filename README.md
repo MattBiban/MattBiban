@@ -24,6 +24,7 @@ Most of my repositories are private because they hold client work. The live site
 
 - **Forkcast**: compares the food delivery apps near you and puts the deals first, then sends you straight to the app to order. TypeScript monorepo with a Fastify API and an Expo (React Native) mobile app, deployed on Vercel.
 - **June**: an AI assistant that runs client intake conversations and turns them into structured briefs, built on the Claude API. It includes a TypeScript back end, a Python bot for Telegram and Slack, and a FastAPI booking service connected to Google Calendar.
+- **FoodCo Kitchen Onboarding**: a partner onboarding app with digital agreements, PDF generation and an approval workflow. Built with Next.js, Neon Postgres and Resend, deployed on Vercel.
 - **Atelier**: a local image generation studio for FLUX models on Apple Silicon. FastAPI and mflux back end, plain HTML, CSS and JavaScript front end. Nothing leaves the Mac.
 - **Catinder**: an iOS app in SwiftUI with Firebase authentication, user profiles and matches.
 
@@ -33,4 +34,4 @@ Most of my repositories are private because they hold client work. The live site
 
 ## Tools I work with
 
-HTML, CSS, JavaScript, TypeScript, Python, Swift, Lua · Astro, Fastify, FastAPI, Expo / React Native, SwiftUI · Firebase, Cloudflare Workers, Vercel, Railway · Claude API
+HTML, CSS, JavaScript, TypeScript, Python, Swift, Lua · Astro, Next.js, Fastify, FastAPI, Expo / React Native, SwiftUI · Firebase, Cloudflare Workers, Vercel, Railway · Claude API
